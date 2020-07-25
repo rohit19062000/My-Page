@@ -1,2 +1,2 @@
-# My-Page
-This is My Page. Check it Out!
+My Portfolio Page.
+Check it out!
